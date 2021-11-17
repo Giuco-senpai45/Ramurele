@@ -1,4 +1,13 @@
+<<<<<<< HEAD
 primu copil
 
 
 al doilea brr
+=======
+
+
+
+
+
+added three
+>>>>>>> brThre
